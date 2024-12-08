@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: "export",
-  basePath: "/REPO_NAME", // Замените на имя вашего репозитория
+  basePath: "/swapi", // Имя репозитория
   images: {
     unoptimized: true,
   },
